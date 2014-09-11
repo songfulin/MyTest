@@ -1,0 +1,5 @@
+D:\宋福林\demo\test\test\bin\Debug\test.exe
+D:\宋福林\demo\test\test\bin\Debug\test.pdb
+D:\宋福林\demo\test\test\obj\x86\Debug\test.exe
+D:\宋福林\demo\test\test\obj\x86\Debug\test.pdb
+D:\宋福林\demo\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
