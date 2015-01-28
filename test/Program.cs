@@ -12,9 +12,9 @@ namespace test
         static void Main(string[] args)
         {
 //
-            //Demo8 a = new Demo8();
-            string a="1234";
-                Console.WriteLine(a.Substring(0,a.Length-1));
+            Demo8 a = new Demo8();
+          //  string a="1234";
+            //    Console.WriteLine(a.Substring(0,a.Length-1));
             Console.ReadKey();
         }
 
