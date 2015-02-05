@@ -1,0 +1,5 @@
+D:\宋福林\MyGitTest\MyTest\Common\bin\Debug\Common.dll
+D:\宋福林\MyGitTest\MyTest\Common\bin\Debug\Common.pdb
+D:\宋福林\MyGitTest\MyTest\Common\obj\Debug\Common.dll
+D:\宋福林\MyGitTest\MyTest\Common\obj\Debug\Common.pdb
+D:\宋福林\MyGitTest\MyTest\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

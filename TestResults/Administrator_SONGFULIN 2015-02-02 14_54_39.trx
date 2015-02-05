@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="729fb91a-05f6-4333-bbc7-f10dbe2a01aa" name="Administrator@SONGFULIN 2015-02-02 14:54:39" runUser="SONGFULIN\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="3ddd75af-3bfe-4670-82a8-d301e1b175c9">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_SONGFULIN 2015-02-02 14_54_39">
+      <DeploymentItem filename="D:\宋福林\MyGitTest\MyTest\Common\bin\Debug\Common.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-02T14:54:39.7427443+08:00" queuing="2015-02-02T14:54:41.0789139+08:00" start="2015-02-02T14:54:41.1924283+08:00" finish="2015-02-02T14:54:44.8768962+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="InputTextTest" storage="d:\宋福林\mygittest\mytest\strinhelperunittest\bin\debug\strinhelperunittest.dll" id="fa459808-4961-2aa5-c229-f4c8c763b3e5">
+      <Execution id="30a012da-ceb2-4134-9576-c3a31364e275" />
+      <TestMethod codeBase="D:/宋福林/MyGitTest/MyTest/StrinHelperUnitTest/bin/Debug/StrinHelperUnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="StrinHelperUnitTest.StringHelperTest, StrinHelperUnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InputTextTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fa459808-4961-2aa5-c229-f4c8c763b3e5" executionId="30a012da-ceb2-4134-9576-c3a31364e275" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="30a012da-ceb2-4134-9576-c3a31364e275" testId="fa459808-4961-2aa5-c229-f4c8c763b3e5" testName="InputTextTest" computerName="SONGFULIN" duration="00:00:02.0792810" startTime="2015-02-02T14:54:41.2974417+08:00" endTime="2015-02-02T14:54:44.7088749+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30a012da-ceb2-4134-9576-c3a31364e275">
+    </UnitTestResult>
+  </Results>
+</TestRun>

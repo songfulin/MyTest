@@ -1,0 +1,4 @@
+D:\宋福林\MyGitTest\MyTest\ThreadDemo\bin\Debug\ThreadDemo.exe
+D:\宋福林\MyGitTest\MyTest\ThreadDemo\bin\Debug\ThreadDemo.pdb
+D:\宋福林\MyGitTest\MyTest\ThreadDemo\obj\x86\Debug\ThreadDemo.exe
+D:\宋福林\MyGitTest\MyTest\ThreadDemo\obj\x86\Debug\ThreadDemo.pdb

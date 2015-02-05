@@ -1,0 +1,7 @@
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\bin\Debug\StrinHelperUnitTest.dll
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\bin\Debug\StrinHelperUnitTest.pdb
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\bin\Debug\Common.dll
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\bin\Debug\Common.pdb
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\obj\Debug\StrinHelperUnitTest.dll
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\obj\Debug\StrinHelperUnitTest.pdb
+D:\宋福林\MyGitTest\MyTest\StrinHelperUnitTest\obj\Debug\StrinHelperUnitTest.csprojResolveAssemblyReference.cache

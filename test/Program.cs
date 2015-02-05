@@ -11,10 +11,35 @@ namespace test
     {
         static void Main(string[] args)
         {
-//
-            Demo8 a = new Demo8();
-          //  string a="1234";
-            //    Console.WriteLine(a.Substring(0,a.Length-1));
+
+            //Demo8 a = new Demo8();
+            //string a="1234";
+            //Console.WriteLine(a.Substring(0,a.Length-1));
+
+
+            #region  list 分页
+            ////每页大小  
+            //const int pageSize = 2;
+            ////页码  
+            //int pageNum = 0;
+            ////源数据  
+            //string[] names = { "贤静", "喵喵", "Monsoul", "柒夜", "钱卓文", "吴国军", "张三", "李四", "王五" };
+            //while (pageNum * pageSize < names.Length)
+            //{
+            //    //分页  
+            //    var query = names.Skip(pageSize * pageNum).Take(pageSize);
+            //    Console.WriteLine("输出第{0}页记录", pageNum + 1);
+            //    //输出每页内容  
+            //    foreach (var q in query)
+            //    {
+            //        Console.WriteLine(q);
+            //    }
+            //    pageNum++;
+            //}
+            #endregion
+            #region 
+            
+            #endregion
             Console.ReadKey();
         }
 
@@ -37,6 +62,7 @@ namespace test
             //a.Replace("1", "2");
             //Console.WriteLine(a.ToString());
             //Console.ReadKey();
+             
         }
     }
 
